@@ -1,6 +1,6 @@
 {
-    "name": "gemini_example",
-    "short_name": "gemini_example",
+    "name": "gemini",
+    "short_name": "gemini",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

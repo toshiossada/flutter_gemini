@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'text_chat_page.dart';
+import 'pages/text.dart';
 
 class AppWidget extends StatelessWidget {
   const AppWidget({super.key});
@@ -8,6 +8,7 @@ class AppWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
+      title: 'Flutter Demo',
       home: TextPage(),
     );
   }

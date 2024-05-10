@@ -1,4 +1,4 @@
-package com.example.gemini_example
+package com.example.gemini
 
 import io.flutter.embedding.android.FlutterActivity
 
